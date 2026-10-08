@@ -17,3 +17,7 @@ A simple and beginner-friendly todo application for practicing Git and GitHub.
 
 - This project is for learning Git and GitHub.
 
+
+## UI Improvements
+
+A cleaner interface will make the todo app easier to use.
