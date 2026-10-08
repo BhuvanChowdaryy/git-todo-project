@@ -1,6 +1,6 @@
 # My Todo App
 
-A simple todo application for practicing Git.
+A simple todo application for practicing Git and GitHub.
 
 ## Features
 
