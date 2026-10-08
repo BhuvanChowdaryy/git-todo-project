@@ -8,3 +8,9 @@ A simple todo application for practicing Git.
 - View tasks
 - Complete tasks
 - Delete tasks
+
+## Current Tasks
+
+- Learn Git
+- Practice Git branches
+- Create a GitHub repository
