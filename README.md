@@ -15,3 +15,5 @@ A simple and beginner-friendly todo application for practicing Git and GitHub.
 - Practice Git branches
 - Create a GitHub repository
 
+- This project is for learning Git and GitHub.
+
